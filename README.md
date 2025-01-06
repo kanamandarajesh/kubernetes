@@ -157,5 +157,3 @@ VPA suggests increasing the resources based on actual usage.
 - **VPA with StatefulSets**: If you’re using StatefulSets, you can apply VPA to them as well, but keep in mind that VPA will modify the `requests` and `limits` for each pod individually.
 
 ---
-
-That’s how you set up and use Vertical Pod Autoscaler in Kubernetes! Let me know if you need further clarification or help with specific configurations.
